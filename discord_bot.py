@@ -70,6 +70,8 @@ song_list = {
     'Post-Malone-Congratulations-ft.-Quavo.mp3' : '3',
     'Ian-x-Azteca-UMBLU-LÂNGĂ-AI-MEI-(feat.-Amuly).mp3' : '4',
     'Celine-Dion-My-Heart-Will-Go-On-(HD).mp3' : '5'
+    'NANE-Glume' : '5'
+    'B.U.G.-Mafia-Anturaju'' : '5'
 	}
 
 # bot instantiation
